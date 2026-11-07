@@ -1,4 +1,4 @@
-# AscendX Leave Requests
+# Leave Requests
 > https://ascendx-lr-demo.onrender.com/
 
 Employees submit leave requests, managers approve or reject them, and an AI assistant
